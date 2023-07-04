@@ -1,12 +1,25 @@
 * {
     text-align: center;
+    background-color: aquamarine;
+}
+
+body {
+    min-height: 100vh;
 }
 
 header {
     font-size: 4em;
+}
+
+h2 {
     
 }
 
 ul li {
     list-style-type: none;
+    font-size: 4em;
+}
+
+footer {
+    background: rgb(156, 226, 156);
 }
